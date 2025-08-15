@@ -1,0 +1,27 @@
+//
+// Copyright (c) 2025 Ernst Strüngmann Institute (ESI) for Neuroscience in Cooperation
+// with Max Planck Society and Max Planck Institute for Human Development (MPIB)
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+//
+
+/*-- scss:defaults --*/
+
+// Custom color definitions
+$baseColor: #298c76;
+$lightBaseColor: #3dd09e;
+$link-color: $lightBaseColor;
+$code-block-border-color: $baseColor;
+$primary: $baseColor;
+
+// Shortcut for highlighting text in ESI-green
+.esi-emph {
+    color: $baseColor;
+    font-weight: bold;
+}
+
+// Shortcut for just using ESI-green
+.esi-color {
+    color: $baseColor;
+}
+

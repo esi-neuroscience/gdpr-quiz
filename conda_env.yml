@@ -1,0 +1,13 @@
+#
+# Copyright (c) 2025 Ernst Strüngmann Institute (ESI) for Neuroscience in Cooperation
+# with Max Planck Society and Max Planck Institute for Human Development (MPIB)
+#
+# SPDX-License-Identifier: CC0-1.0
+#
+
+name: gdpr-quiz
+channels:
+  - conda-forge
+dependencies:
+  - quarto >= 1.6
+  - reuse

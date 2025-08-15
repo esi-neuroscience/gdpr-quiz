@@ -1,0 +1,122 @@
+---
+title: "GDPR Quiz For Human Subject Research"
+filters: 
+    - quizdown
+---
+
+<!--
+Copyright (c) 2025 Ernst Strüngmann Institute (ESI) for Neuroscience in Cooperation 
+with Max Planck Society and Max Planck Institute for Human Development (MPIB)
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
+```quizdown
+---
+primary_color: '#3dd09e'
+secondary_color: lightgray
+text_color: black
+shuffle_questions: false
+shuffle_answers: true
+---
+
+# Introduction
+
+With some text
+People who participate in our studies trust us with their data, so it is our
+job to make sure that the data is not used in ways that they do not agree
+with.
+
+In the EU, the handling of personal information is governed by the
+General Data Protection Regulation (GDPR). You can find the full text 
+[here](https://gdpr-info.eu/">gdpr-info.eu)
+
+1. Sounds good!
+
+> Click the lightbulb for a hint!
+
+# What is Personal Data?
+
+GDPR only applies to personal data. If data can not be linked (neither directly
+nor indirectly) to a person, it is called anonymous. Anonymous data is not
+covered by the GDPR.
+
+Which of these statements about personal data are correct (click all that apply)?
+
+- [x] Full name and address are personal data. 
+
+    > Full name and address are always personal data
+    
+- [ ] Averages and standard deviations of a large dataset are personal data.
+
+    > Aggregated data are typically not personal data
+    
+- [x] Averages and standard deviations can be personal data if the dataset is too small.
+
+    > If the number of participants is too low, even aggregate data can allow you to infer information about individual people 
+    
+- [x] Data that are stored under a pseudonym are still personal data, even if the list that maps pseudonyms to names is stored separately
+
+    > As long as it is still possible to link the data back to individual people, it is not anonymous
+    
+- [x] MRI brain scans on their own, without any name or ID, can still be personal data
+
+    > Brain scans can be personal data on their own. The process of *defacing* is meant to reduce the amount of personal data while keeping the relevant data for research intact. Whether that works for a particular scan is not easy to answer though
+      
+- [x] If you know who participated in a study, but not who gave which answers, demographic data like age and gender can be sufficient to match data to individual participants 
+
+    > Age and gender alone are often sufficient to find out which member of the group gave these answers
+
+> A hint
+
+# What's the capital of Germany?
+
+> It's the _largest_ city in Germany...
+
+- [x] Berlin
+    > this is the correct answer.
+- [ ] Frankfurt
+- [ ] Paris
+    > Paris is the capital of France.
+- [ ] Cologne
+
+
+# Python Lists
+
+What is the value of `x[2]`?
+
+> Python lists are mutable!
+
+~~~python
+x = [2, 3, 4]
+x[2] = 4
+print(x[2])
+~~~
+
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [x] 4
+
+## The sound of dog
+
+What do dogs sound like?
+
+> Some hint
+
+- [ ] yes
+- [ ] no
+- [ ] `self.sound = "meow"`
+- [x] wuff
+
+## Put the [days](https://en.wikipedia.org/wiki/Day) in order!
+
+> Monday is the *first* day of the week.
+
+1. Monday
+2. Tuesday
+3. Wednesday
+4. Friday
+5. Saturday  
+```
+

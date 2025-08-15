@@ -1,0 +1,30 @@
+#
+# Copyright (c) 2025 Ernst Strüngmann Institute (ESI) for Neuroscience in Cooperation
+# with Max Planck Society and Max Planck Institute for Human Development (MPIB)
+#
+# SPDX-License-Identifier: CC0-1.0
+#
+
+project:
+  type: website
+
+website:
+  title: "GDPR Quiz"
+  bread-crumbs: false
+  sidebar: false
+  favicon: "images/favicon/apple-touch-icon.png"
+  navbar:
+    title: " "
+    logo: css/logo-combined.png
+    background: primary
+    search: false
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Quiz"
+        href: gdpr_quiz.qmd
+format:
+  html:
+    css: css/esi.css
+    theme: [white, css/esi.scss]
+    toc: true
