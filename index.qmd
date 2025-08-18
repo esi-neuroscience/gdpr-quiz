@@ -15,7 +15,47 @@ by Thomas Bengfort from the [Max Planck Institute for Human Development (MPIB)](
 
 # How To Play
 
-Coming soon...
+To start the quiz, either click on *Quiz* in the top bar or scroll down to 
+[Start Quiz](#start-quiz) below and click the provided link. 
+
+All assignments in the quiz are multiple choice questions: one or multiple answers 
+are correct. To pick one or more statements, simply select the respective 
+fields and click the right arrow button to proceed to the next question. 
+
+![](imgs/proceed.png){width="80%"}
+
+If you want to go back to the previous question, click on the left arrow button. 
+
+![](imgs/previous.png){width="80%"}
+
+Every question card also contains an optional hint message. If you are stuck 
+with a question, click the lightbulb for help. 
+
+![](imgs/hint.png){width="80%"}
+![](imgs/hint_clicked.png){width="80%"}
+
+If you want to restart the quiz, click the circular arrow. 
+
+::: {.callout-important}
+
+## Warning
+
+Restarting the quiz re-sets your progress! All chosen answers will become un-clicked 
+again. 
+
+:::
+
+![](imgs/restart.png){width="80%"}
+
+Once you're done with the quiz, click the double-check marks to proceed to the 
+final evaluation screen. 
+
+![](imgs/finalize.png){width="80%"}
+
+There, you'll see a breakdown of your answers including tips and explanations 
+of things you might have gotten wrong. 
+
+![](imgs/results.png){width="80%"}
 
 We recommend that you carefully read through all content and all training
 questions. You can take as much time as you need. Also remember to take breaks!
