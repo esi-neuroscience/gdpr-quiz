@@ -22,10 +22,9 @@ shuffle_answers: true
 
 # Introduction
 
-With some text
 People who participate in our studies trust us with their data, so it is our
 job to make sure that the data is not used in ways that they do not agree
-with.
+with. </br></br>
 
 In the EU, the handling of personal information is governed by the
 General Data Protection Regulation (GDPR). You can find the full text 
@@ -67,7 +66,121 @@ Which of these statements about personal data are correct (click all that apply)
 
     > Age and gender alone are often sufficient to find out which member of the group gave these answers
 
-> A hint
+> Seemingly "harmless" statistical descriptors can reveal a lot if the underlying data-set is either small or the participants are well known
+
+# Consent
+
+In order to process personal information, we typically need consent. 
+
+Which of these statements about consent are correct (click all that apply)?
+
+- [x] The participant receives a clearly written document that explains how the data will be processed and what rights they have. They carefully read the document and then sign it. This is valid consent. 
+
+    > This is the ideal situation. 
+
+- [ ] The participant signs a legal document, but honestly you don't really understand it yourself. Still, this counts as consent. 
+
+    > The consent must use clear and plain language. 
+    
+- [x] The participant checks a box in an online form instead of signing papers. Still, this counts as consent.
+
+    > A signature is not legally required for consent. However, at ESI and CoBIC we prefer to get a signature in most cases. 
+    
+- [ ] By consenting to a study, the participant automatically also consents to being added to the recruitment pool.
+
+    > Recruitment consent must be optional and clearly separated from the study consent. 
+    
+- [ ] A senior researcher tells their PhD student to participate in one of their studies. If the student agrees, this constitutes consent.
+
+    > Consent must be freely given. The power imbalance in this case makes that impossible.
+
+> A participant can only consent to enroll in a study if they understand what they are agreeing to and if they agree freely of their own volition 
+
+# Retracting Consent 
+
+Participants have the right to retract their consent and request the deletion of their data at any time. 
+
+Which of the following statements is correct in that situation (click all that apply)? 
+
+- [x] When a participant retracts their consent, you should contact the responsible data protection coordinator.
+
+    > Please always inform the accountable data protection coordinator in these cases 
+    
+- [ ] When a participant retracts their consent, you should try to stall for time.
+
+    > The law permits one month to process those requests - after this time period the institution and/or investigator can be sued.
+
+- [ ] When a participant retracts their consent, it is sufficient to delete research data pertaining to this person.
+
+    > Emails and any other personal data that may have been collected need to be deleted as well. 
+    
+- [ ] When a participant retracts their consent, you must retract data that you have already published. 
+
+    > Data that has already been published with the participant's consent is not affected.
+
+> A consent retraction is both time sensitive and binding!
+    
+# Other Legal Bases for Data Processing
+
+Consent is not the only legal basis for processing personal data.
+
+Do you know which of the following constitutes a legal basis for processing personal data (click all that apply)?
+
+- [x] The contract you have with your employer allows them to have some data about you.
+
+    > An employment contract can be a legal basis.
+    
+- [ ] The contract you have with your employer allows them to track your movement in the office.
+
+    > Tracking your movement is not required to perform your work duties, so it can not serve as a legal basis for processing that data.
+    
+- [ ] The contract you have with your employer allows them to ask for your sexual orientation.
+
+    > Sexual orientation is a *"special category of personal data"*. It can only be processed under very limited conditions.
+    
+- [x] A participant attacks an employee. Your employer can keep their data to make sure that this person is not accidentally invited again.
+
+    > Yes, your employer has a *"legitimate interest"* to protect you and all other employees
+
+> Informed consent is not the only legal framework that permits processing of personal data. If an entity needs to know specific personal information about you to perform their service, this counts as "legitimate interest" (e.g., the pizza place that delivers your Margherita stores your phone number and address). 
+
+# Data Sharing 
+
+In which of these cases is it allowed to share data with others (click all that apply)?
+
+- [ ] I can share personal data with a colleague at another institute if they are interested in my work.
+
+    > Without a legal framework in place you cannot pass personal data to other researchers. 
+    
+- [ ] Data protection law blocks me from publishing anonymized data sets.
+
+    > Anonymous data is not considered personal data any more and therefore not covered by the GDPR.
+    
+- [ ] When I want to work on subject data from home, I can upload it to my Dropbox account.
+
+    > You are not allowed to pass personal data to external service providers without an explicit processing contract in place.
+
+- [ ] When I want to work on subject data from home, I can upload it to a provider that hosts all data within the EU.
+
+    > You are not allowed to pass personal data to external service providers without an explicit processing contract in place, regardless of where the service provider is located.
+    
+- [x] I can publish personal data after receiving explicit consent from participants.
+
+    > If you have written informed consent you can publish the data.
+    
+> Sharing personal data protected by GDPR is only permitted if an explicit legal framework is in place. Talk to your data protection coordinator *before* you hit the upload button!
+
+# Deleting Data
+
+Personal data must be deleted when storing it is no longer necessary.
+
+Which of these are correct (click all that apply)?
+
+- [ ] I should keep the collected data indefinitely for reproducibility.
+
+    > The [MPG Rules of Good Scientific Practice](https://www.mpg.de/197494/rulesScientificPractice.pdf) only require that you keep data for 10 years after the last publication. After that, they must be deleted. 
+
+> Coming soon... 
 
 # What's the capital of Germany?
 
