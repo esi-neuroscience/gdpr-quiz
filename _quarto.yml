@@ -12,10 +12,10 @@ website:
   title: "GDPR Quiz"
   bread-crumbs: false
   sidebar: false
-  favicon: "images/favicon/apple-touch-icon.png"
+  favicon: css/favicon.ico
   navbar:
     title: " "
-    logo: css/logo-combined.png
+    logo: css/all_logos.png
     background: primary
     search: false
     left:

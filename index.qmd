@@ -13,6 +13,15 @@ The following quiz is designed to provide an overview about the basics of data p
 for human subject research. The questions are based on a course originally developed 
 by Thomas Bengfort from the [Max Planck Institute for Human Development (MPIB)](https://www.mpib-berlin.mpg.de). 
 
+This quiz is the result of a collaborative effort of the 
+[Ernst Strüngmann Institute (ESI) for Neuroscience in Cooperation with Max Planck Society](https://www.esi-frankfurt.de/), 
+the [Cooperative Brain Imaging Center (CoBIC)](https://cobic.de/) and the 
+[Max Planck Institute for Human Development (MPIB)](https://www.mpib-berlin.mpg.de). 
+
+![](imgs/esi_logo.png){.absolute width="12%" style="margin-right: 5%; "}
+![](imgs/cobic_logo.png){.absolute right="80%" width="32%" style="margin-right: 5%; "}
+![](imgs/mpib_logo.png){width="44%"}
+
 # How To Play
 
 To start the quiz, either click on *Quiz* in the top bar or scroll down to 
@@ -48,7 +57,7 @@ again.
 ![](imgs/restart.png){width="80%"}
 
 Once you're done with the quiz, click the double-check marks to proceed to the 
-final evaluation screen. 
+final evaluation screen.  
 
 ![](imgs/finalize.png){width="80%"}
 
