@@ -38,7 +38,7 @@ General Data Protection Regulation (GDPR). You can find the full text
 
 GDPR only applies to personal data. If data can not be linked (neither directly
 nor indirectly) to a person, it is called anonymous. Anonymous data is not
-covered by the GDPR.
+covered by the GDPR. </br></br>
 
 Which of these statements about personal data are correct (click all that apply)?
 
@@ -70,7 +70,7 @@ Which of these statements about personal data are correct (click all that apply)
 
 # Consent
 
-In order to process personal information, we typically need consent. 
+In order to process personal information, we typically need consent. </br></br>
 
 Which of these statements about consent are correct (click all that apply)?
 
@@ -98,7 +98,7 @@ Which of these statements about consent are correct (click all that apply)?
 
 # Retracting Consent 
 
-Participants have the right to retract their consent and request the deletion of their data at any time. 
+Participants have the right to retract their consent and request the deletion of their data at any time. </br></br>
 
 Which of the following statements is correct in that situation (click all that apply)? 
 
@@ -122,7 +122,7 @@ Which of the following statements is correct in that situation (click all that a
     
 # Other Legal Bases for Data Processing
 
-Consent is not the only legal basis for processing personal data.
+Consent is not the only legal basis for processing personal data. </br></br>
 
 Do you know which of the following constitutes a legal basis for processing personal data (click all that apply)?
 
@@ -172,7 +172,7 @@ In which of these cases is it allowed to share data with others (click all that 
 
 # Deleting Data
 
-Personal data must be deleted when storing it is no longer necessary.
+Personal data must be deleted when storing it is no longer necessary. </br></br>
 
 Which of these are correct (click all that apply)?
 
@@ -180,56 +180,32 @@ Which of these are correct (click all that apply)?
 
     > The [MPG Rules of Good Scientific Practice](https://www.mpg.de/197494/rulesScientificPractice.pdf) only require that you keep data for 10 years after the last publication. After that, they must be deleted. 
 
-> Coming soon... 
+- [x] I should anonymize the collected data as quickly as possible.
 
-# What's the capital of Germany?
+    > You must not keep personal data longer than necessary. 
+    
+- [ ] I should hold off anonymization in case I want to reuse the data for another study.
 
-> It's the _largest_ city in Germany...
+    > You can only use data for the purposes it was collected for. If you want to reuse it in a later study, you have to ask for explicit consent. 
+    
+> Storing and processing of personal data is tightly regulated by the GDPR which clearly states how long and for what purpose personal data can be kept around. 
 
-- [x] Berlin
-    > this is the correct answer.
-- [ ] Frankfurt
-- [ ] Paris
-    > Paris is the capital of France.
-- [ ] Cologne
+# In Case of Emergency
 
+Accidents happen. How should you react if something goes wrong (click all that apply)?
 
-# Python Lists
+- [x] If your laptop is stolen, you should contact the data protection coordinator.
 
-What is the value of `x[2]`?
+    > The laptop might contain personal information of coworkers and participants, or passwords that allow access to that data. 
+    
+- [ ] We should not tell participants if there has been a data leak, because they might no longer want to participate.
 
-> Python lists are mutable!
+    > In case of a data leak, we are legally required to inform the affected participants within 48h. You should inform the data protection coordinator as quickly as possible.
 
-~~~python
-x = [2, 3, 4]
-x[2] = 4
-print(x[2])
-~~~
+- [x] As soon as there is any doubt that passwords are no longer secret, they must be changed immediately. 
 
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [x] 4
+    > Even if you don't notice anything suspicious, it is better to be safe.
 
-## The sound of dog
+> If things go south, be transparent and speak out
 
-What do dogs sound like?
-
-> Some hint
-
-- [ ] yes
-- [ ] no
-- [ ] `self.sound = "meow"`
-- [x] wuff
-
-## Put the [days](https://en.wikipedia.org/wiki/Day) in order!
-
-> Monday is the *first* day of the week.
-
-1. Monday
-2. Tuesday
-3. Wednesday
-4. Friday
-5. Saturday  
 ```
-
