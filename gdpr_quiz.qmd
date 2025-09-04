@@ -28,7 +28,7 @@ with. </br></br>
 
 In the EU, the handling of personal information is governed by the
 General Data Protection Regulation (GDPR). You can find the full text 
-[here](https://gdpr-info.eu/">gdpr-info.eu)
+[here](https://gdpr-info.eu/)
 
 1. Sounds good!
 
