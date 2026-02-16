@@ -1,6 +1,8 @@
 <!--
 Copyright (c) 2025 Ernst Strüngmann Institute (ESI) for Neuroscience in Cooperation 
 with Max Planck Society and Max Planck Institute for Human Development (MPIB)
+Copyright (c) 2026 Ernst Strüngmann Institute (ESI) of the Max Planck Society 
+and Max Planck Institute for Human Development (MPIB)
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
@@ -32,7 +34,7 @@ More information can be found in the [Quarto docs](https://quarto.org/docs/websi
 
 ## Contributing
 
-Contributions to are always welcome! You can 
+Contributions are always welcome! You can 
 [open an issue](https://github.com/esi-neuroscience/gdpr-quiz/issues/new)
 and propose changes/additions. Alternatively, feel free to 
 [fork this repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo), 

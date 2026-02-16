@@ -5,6 +5,8 @@ title: "GDPR Quiz For Human Subject Research"
 <!--
 Copyright (c) 2025 Ernst Strüngmann Institute (ESI) for Neuroscience in Cooperation 
 with Max Planck Society and Max Planck Institute for Human Development (MPIB)
+Copyright (c) 2026 Ernst Strüngmann Institute (ESI) of the Max Planck Society 
+and Max Planck Institute for Human Development (MPIB)
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
@@ -14,7 +16,7 @@ for human subject research. The questions are based on a course originally devel
 by Thomas Bengfort from the [Max Planck Institute for Human Development (MPIB)](https://www.mpib-berlin.mpg.de). 
 
 This quiz is the result of a collaborative effort of the 
-[Ernst Strüngmann Institute (ESI) for Neuroscience in Cooperation with Max Planck Society](https://www.esi-frankfurt.de/), 
+[Ernst Strüngmann Institute (ESI) of the Max Planck Society](https://www.esi-frankfurt.de/), 
 the [Cooperative Brain Imaging Center (CoBIC)](https://cobic.de/) and the 
 [Max Planck Institute for Human Development (MPIB)](https://www.mpib-berlin.mpg.de). 
 
