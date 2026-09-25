@@ -128,7 +128,7 @@ People may change their mind or their circumstances might change over time. </br
 
 Which of the following statements is correct in this context (click all that apply)?
 
-- [x] Even if our records show that a participant is suitable for an MRI scan I must confirm their current medical contraindications before proceeding.
+- [x] Even if our records show that a participant is suitable for an MRI scan I must confirm their current medical MRI contraindications before including this participant in an MRI study. In case of new counterindications, I must update the participant's records immediately.
 
     >  Better be safe than sorry: always verify current health status and contraindications before any procedure, regardless of prior records.
 
@@ -136,7 +136,7 @@ Which of the following statements is correct in this context (click all that app
 
     >  Consent must be informed. If the participant cannot understand the information, the consent is not valid!
 
-- [x] I contacted a subject who signed our recruitment consent form five years ago. I must ask them to review and re-sign the latest version of the document.
+- [x] I contacted a subject who signed an old version of our recruitment consent form. I must ask them to review and re-sign the latest version of the document.
 
     >  Consent must be current and based on up-to-date information. If the original consent was based on an outdated document, participants must be informed and asked to re-consent.
 
