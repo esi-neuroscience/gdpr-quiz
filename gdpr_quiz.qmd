@@ -121,7 +121,27 @@ Which of the following statements is correct in that situation (click all that a
     > Data that has already been published with the participant's consent is not affected.
 
 > A consent retraction is both time sensitive and binding!
-    
+
+# Updating Consent
+
+People may change their mind or their circumstances might change over time. </br></br>
+
+Which of the following statements is correct in this context (click all that apply)?
+
+- [x] Even if our records show that a participant is suitable for an MRI scan I must confirm their current medical MRI contraindications before including this participant in an MRI study. In case of new counterindications, I must update the participant's records immediately.
+
+    >  Better be safe than sorry: always verify current health status and contraindications before any procedure, regardless of prior records.
+
+- [ ] Upon calling a participant you realize they gave consent in a language they don't understand. But they signed the document, so you can safely proceed.
+
+    >  Consent must be informed. If the participant cannot understand the information, the consent is not valid!
+
+- [x] I contacted a subject who signed an old version of our recruitment consent form. I must ask them to review and re-sign the latest version of the document.
+
+    >  Consent must be current and based on up-to-date information. If the original consent was based on an outdated document, participants must be informed and asked to re-consent.
+
+> Always ensure that participant data is accurate, complete and up-to-date!
+
 # Other Legal Bases for Data Processing
 
 Consent is not the only legal basis for processing personal data. </br></br>
